@@ -1,0 +1,10 @@
+export const FETCH_DATA = "FETCH_DATA";
+export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
+export const FETCH_DATA_ERROR = "FETCH_DATA_ERROR";
+
+export const MODAL_VIEW = "MODAL_VIEW";
+
+export const NEW_PAYMENT = "NEW_PAYMENT";
+
+export const CATEGORY_FILTER = "CATEGORY_FILTER";
+export const COLOR_FILTER = "COLOR_FILTER";
